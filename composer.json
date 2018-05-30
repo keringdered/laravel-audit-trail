@@ -12,5 +12,15 @@
       "name":"Kering",
       "email":"kipngenokering@gmail.com"
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4":{
+          "LaravelAuditTrail\\":"src/"
+        }
+    },
+    "extras":{
+      "laravel":{
+        "providers":"LaravelAuditTrail\\LaravelAuditTrailServiceProvider"
+      }
+    }
 }
