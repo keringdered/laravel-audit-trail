@@ -1,5 +1,5 @@
 {
-    "name": "vendor/laravel-audit-trail",
+    "name": "keringdered/laravel-audit-trail",
     "description": "Autogenerate Trails on Database Access and Manipulation",
     "type": "library",
     "require": {
