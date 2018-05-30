@@ -8,10 +8,12 @@
         "monolog/monolog": "^1.23"
     },
     "license": "MIT",
-    "authors":{
-      "name":"Kering",
-      "email":"kipngenokering@gmail.com"
-    },
+    "authors":[
+      {
+        "name":"Kering",
+        "email":"kipngenokering@gmail.com"
+      }
+    ],
     "minimum-stability": "dev",
     "autoload":{
         "psr-4":{
