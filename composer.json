@@ -1,0 +1,16 @@
+{
+    "name": "vendor/laravel-audit-trail",
+    "description": "Autogenerate Trails on Database Access and Manipulation",
+    "type": "library",
+    "require": {
+        "php": "^7.1",
+        "illuminate/support": "5.6.*",
+        "monolog/monolog": "^1.23"
+    },
+    "license": "MIT",
+    "authors":{
+      "name":"Kering",
+      "email":"kipngenokering@gmail.com"
+    },
+    "minimum-stability": "dev"
+}
